@@ -169,3 +169,14 @@
 
     - 2019-08-07
         - [91-decode-ways](https://leetcode.com/problems/decode-ways/description/)
+
+    - 2019-08-08
+      - [300-longest-increasing-subsequence](https://leetcode.com/problems/longest-increasing-subsequence/description/)
+
+    - 2019-08-09
+      - [646-maximum-length-of-pair-chain](https://leetcode.com/problems/maximum-length-of-pair-chain/description/)
+
+
+    #### 搜索
+    - 2019-08-12
+      - [127-word-ladder](https://leetcode.com/problems/word-ladder/description/)
